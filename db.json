@@ -1,14 +1,174 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ {
+   "category": "Intake",
+   "number": 1,
+   "name": "Intake Ball from Floor",
+   "time": 1
+ },
+ {
+   "category": "Intake",
+   "number": 2,
+   "name": "Intake Ball from Upper HPS",
+   "time": 1
+ },
+ {
+   "category": "Intake",
+   "number": 3,
+   "name": "Intake Ball from Lower HPS",
+   "time": 1
+ },
+ {
+   "category": "Intake",
+   "number": 4,
+   "name": "Intake Ball from Ren",
+   "time": 1
+ },
+ {
+   "category": "Output",
+   "number": 5,
+   "name": "Output Ball to Floor",
+   "time": 1
+ },
+ {
+   "category": "Output",
+   "number": 6,
+   "name": "Output Ball to Low Goal",
+   "time": 2
+ },
+ {
+   "category": "Output",
+   "number": 7,
+   "name": "Output Ball to High Goal",
+   "time": 1
+ },
+ {
+   "category": "Spinner",
+   "number": 8,
+   "name": "Rotate Spinner",
+   "time": 3
+ },
+ {
+   "category": "Spinner",
+   "number": 9,
+   "name": "Stop Spinner",
+   "time": 1
+ },
+ {
+   "category": "Sensor",
+   "number": 10,
+   "name": "Detect Spinner Color",
+   "time": 2
+ },
+ {
+   "category": "Sensor",
+   "number": 11,
+   "name": "Detect Goals",
+   "time": 1
+ },
+ {
+   "category": "Sensor",
+   "number": 12,
+   "name": "Detect HPS",
+   "time": 1
+ },
+ {
+   "category": "Climbing",
+   "number": 13,
+   "name": "Expand Upwards/Deploy",
+   "time": 3
+ },
+ {
+   "category": "Climbing",
+   "number": 14,
+   "name": "Attach to Bar",
+   "time": 1
+ },
+ {
+   "category": "Climbing",
+   "number": 15,
+   "name": "Move Bot Upwards",
+   "time": 3
+ },
+ {
+   "category": "Drive",
+   "number": 16,
+   "name": "Drive Across Auto Line",
+   "time": 2
+ },
+ {
+   "category": "Drive",
+   "number": 17,
+   "name": "Drive Over Ren Barrier",
+   "time": 1
+ },
+ {
+   "category": "Drive",
+   "number": 18,
+   "name": "Drive Through Trench",
+   "time": 1
+ },
+ {
+   "category": "Drive",
+   "number": 19,
+   "name": "Drive to Opposing Alliance Side",
+   "time": null
+ },
+ {
+   "category": "Drive",
+   "number": 20,
+   "name": "Drive From Goal to HPS",
+   "time": 5
+ },
+ {
+   "category": "Drive",
+   "number": 21,
+   "name": "Drive from HPS to Goal",
+   "time": 5
+ },
+ {
+   "category": "Drive",
+   "number": 22,
+   "name": "Drive From Ren Perimeter to Goal",
+   "time": 3
+ },
+ {
+   "category": "Drive",
+   "number": 23,
+   "name": "Drive From Goal to Ren Perimeter",
+   "time": 3
+ },
+ {
+   "category": "Drive",
+   "number": 24,
+   "name": "Drive From Trench to Goal",
+   "time": 3
+ },
+ {
+   "category": "Drive",
+   "number": 25,
+   "name": "Drive From Goal to Trench",
+   "time": 3
+ },
+ {
+   "category": "Drive",
+   "number": 26,
+   "name": "Drive Full Length of Field",
+   "time": 5
+ },
+ {
+   "category": "Defense",
+   "number": 27,
+   "name": "Impact Opposing Robot",
+   "time": 1
+ },
+ {
+   "category": "Defense",
+   "number": 28,
+   "name": "Pin Opposing Robot",
+   "time": 5
+ },
+ {
+   "category": "Defense",
+   "number": 29,
+   "name": "Drive From Auto Line to Goal",
+   "time": 4
+ }
